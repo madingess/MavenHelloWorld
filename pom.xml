@@ -15,8 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <pluginRepository>
-    <id>jenkinsTestChecker</id>
-    <url>https://github.com/madingess/AgileDevelopers</url>
-  </pluginRepository>
 </project>
